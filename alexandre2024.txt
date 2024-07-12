@@ -1,0 +1,2 @@
+mais um teste para envio de documentos para o GitHub.
+vou iniciar o git gui para envio deste documento.
