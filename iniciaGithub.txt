@@ -1,0 +1,3 @@
+passo a passo para criar um clone do GitHub para sua máquina local
+1º crie o repositório no GitHub
+2º clique em configurar no Desktop. Nesse momento, com o git instalado na máquina, vai ser aberto o git desktop e automaticamente será realizado o clone do seu repositório no GitHub para sua máquina local.
